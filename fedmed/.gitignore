@@ -1,0 +1,12 @@
+certs/
+keys/
+artifacts/*
+!artifacts/.gitkeep
+dashboard/node_modules/
+dashboard/dist/
+dashboard/public/sample.json
+__pycache__/
+
+.venv*/
+data/
+*.pt
